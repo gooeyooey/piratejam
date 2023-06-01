@@ -5,6 +5,8 @@
 	"Description": "",
 	"TargetPlatforms": [
 		"WindowsNoEditor",
-		"LinuxNoEditor"
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"AllDesktop"
 	]
 }
